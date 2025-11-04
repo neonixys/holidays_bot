@@ -3,3 +3,4 @@ feedparser
 requests
 apscheduler
 pytz
+python-dotenv==1.0.1
