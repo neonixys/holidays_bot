@@ -1,0 +1,5 @@
+aiogram
+feedparser
+requests
+apscheduler
+pytz
