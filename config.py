@@ -1,6 +1,3 @@
-# TOKEN = "8346660269:AAFy7oExYfB8IZ9fm4TCN7KuOCWnhsjsGPk"
-
-
 # config.py
 import os
 
